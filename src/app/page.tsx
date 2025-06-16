@@ -34,7 +34,7 @@ export default function Home() {
                 height={500}
                 className="rounded"
               />
-              <p className="mt-2 text-white font-semibold">Single: "Fading in the dark"</p>
+              <p className="mt-2 text-white font-semibold">Single: &quot;Fading in the dark&quot;</p>
               <p className="text-gray-400 text-sm">Released: April 15, 2025</p>
             </div>
 
@@ -46,7 +46,7 @@ export default function Home() {
                 height={500}
                 className="rounded"
               />
-              <p className="mt-2 text-white font-semibold">Single: "Today is a good day"</p>
+              <p className="mt-2 text-white font-semibold">Single: &quot;Today is a good day&quot;</p>
               <p className="text-gray-400 text-sm">Released: March 3, 2025</p>
             </div>
 
@@ -58,7 +58,7 @@ export default function Home() {
                 height={500}
                 className="rounded"
               />
-              <p className="mt-2 text-white font-semibold">Upcoming: "Uh Oh (Club Mix)"</p>
+              <p className="mt-2 text-white font-semibold">Upcoming: &quot;Uh Oh (Club Mix)&quot;</p>
               <p className="text-gray-400 text-sm">Releases: June 20, 2025</p>
             </div>
           </div>
